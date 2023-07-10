@@ -1,0 +1,14 @@
+.model {
+  border: 1px solid black;
+  width: 200px;
+  margin-top: 30px;
+  padding: 1rem;
+}
+
+.model button:focus {
+  outline: 2px solid rebeccapurple;
+}
+
+.model button {
+  margin-left: 10px;
+}
